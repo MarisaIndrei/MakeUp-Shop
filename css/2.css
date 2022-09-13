@@ -1,0 +1,110 @@
+body{
+	background: #ffffff url("m3.jpg") no-repeat right top;
+	
+	background-size: cover;
+	background-position: center;
+	opacity: 1;
+}
+
+{
+	margin: 0;
+	padding: 0;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 6px ;
+    overflow: hidden;
+    background-color: rgba(255, 255, 255, .0);;
+}
+
+li {
+    float: right;
+	padding: 0px 5px;
+	box-shadow: 0px 8px 16px 0px 
+	
+}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 19px 19px;
+    text-decoration: none;
+}
+
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: pink;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: 	#ff00ff;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+	text-align: right;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: right;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+
+
+
+}
+
+li a:hover {
+    background-color: #218;
+}
+
+
+
+h1 {
+    text-shadow: 6px 3px black;
+	text-align: center;
+}
+
+h2 {
+    text-shadow: 6px 3px black;
+	text-align: center;
+}
+.citat
+{
+	text-align:center;
+	color:		Pink;
+	font-size: 40px;
+	letter-spacing: 3px;
+	line-height: 1.8;
+	text-shadow: 3px 2px white;
+	font-style: italic;
+	font-family: Impact, Charcoal, sans-serif;
+}
+
+.center
+ {
+    text-align:center;
+ }
+
+
+
+
